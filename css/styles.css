@@ -22,7 +22,7 @@ header {
 }
 
 .logo img {
-  width: 100px; /* Adjust size as needed */
+  width: 100px; 
   height: auto;
 }
 
@@ -53,8 +53,8 @@ main {
   padding: 20px;
   margin-bottom: 20px;
   text-align: center;
-  border-radius: 15px; /* Curved edges for the promo-banner */
-  background-image: url('../images/promo-bg.jpg'); /* Add your background image here */
+  border-radius: 15px; 
+  background-image: url('../images/promo.jpg'); 
   background-size: cover;
   background-position: center;
 }
@@ -84,7 +84,7 @@ main {
 }
 
 .column img {
-  width: 100px; /* Passport size */
+  width: 100px; 
   height: auto;
   margin-bottom: 10px;
   display: block;
